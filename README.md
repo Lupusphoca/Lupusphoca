@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pierre ARNAUDET aka Loufhok.
 - 👀 I’m interested in Game Dev, Tabletop, Musics, Nature and many other things.
 - 🌱 I’m currently learning HTML, CSS and JS on React JS framework to learn web site dev.
-- 💞️ I’m looking to collaborate on (nothing for the moment, I'm not enought good to work with someone)
+- 💞️ I’m looking to collaborate on React.JS or Unity project !
 - 📫 How to reach me -> pierrearnaudet1998@gmail.com
 
 <!---
