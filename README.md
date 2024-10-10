@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Pierre ARNAUDET aka Loufhok.
+- 👋 Hi, I’m Pierre ARNAUDET aka Loufhok or Lupusphoca.
 - 👀 I’m interested in Game Dev, Tabletop, Music, Nature and many other things.
-- 🌱 I’m currently learning HTML, CSS and JS on React JS framework to learn web site dev.
-- 💞️ I’m looking to collaborate on React.JS or Unity project !
-- 📫 How to reach me -> pierrearnaudet1998@gmail.com
+- 🌱 Primarily versed into the GameDev via Unity, I’m currently learning Angular framework to learn web site dev.
+- 💞️ I'll always be glad to talk about project and collaboration, so if you want to reach me : pierrearnaudet1998@gmail.com
+- 🗃️ And if you want to see my work, everything's here : bit.ly/portfolio-pierre-arnaudet
 
 <!---
 Lupusphoca/Lupusphoca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
